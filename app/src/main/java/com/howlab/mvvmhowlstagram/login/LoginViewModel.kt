@@ -27,7 +27,7 @@ class LoginViewModel(application: Application) : AndroidViewModel(application) {
     init {
 
         var gso = GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-            .requestIdToken(context.getString(R.string.default_web_client_id))
+            .requestIdToken("785415099909-ufmp4060g45vchh4b0384k39mcifl487.apps.googleusercontent.com")
             .requestEmail()
             .build()
         googleSignInClient = GoogleSignIn.getClient(context,gso)
