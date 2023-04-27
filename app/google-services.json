@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "470549528225",
-    "project_id": "mvvmhowlstagram-3d34e",
-    "storage_bucket": "mvvmhowlstagram-3d34e.appspot.com"
+    "project_number": "785415099909",
+    "project_id": "kotlin-mvvm-d7bb5",
+    "storage_bucket": "kotlin-mvvm-d7bb5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:470549528225:android:0f51482a1e3c21fd6a3ae0",
+        "mobilesdk_app_id": "1:785415099909:android:ffd66ef8d7732c2906ae6c",
         "android_client_info": {
-          "package_name": "com.howlab.mvvmhowlstagram"
+          "package_name": "com.apps4you.mvvm"
         }
       },
       "oauth_client": [
         {
-          "client_id": "470549528225-h99m8ojsrttq3bl2r1f4se34n79er9ot.apps.googleusercontent.com",
+          "client_id": "785415099909-ufmp4060g45vchh4b0384k39mcifl487.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC7MgxgdHu_P4cgGShu_-5gluer-mL6ZAM"
+          "current_key": "AIzaSyDZfB9dHGx1IMEd-tXv5JEVof76Ys1kF-M"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "470549528225-h99m8ojsrttq3bl2r1f4se34n79er9ot.apps.googleusercontent.com",
+              "client_id": "785415099909-ufmp4060g45vchh4b0384k39mcifl487.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
